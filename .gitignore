@@ -1,0 +1,6 @@
+notes.txt
+__pycache__/
+
+# Jupyter Files
+.ipynb_checkpoints/
+
